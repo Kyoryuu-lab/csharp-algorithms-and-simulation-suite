@@ -1,0 +1,19 @@
+## Build and Binary Artifacts
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+x64/
+x86/
+
+## Visual Studio & Rider State
+.vs/
+*.user
+*.suo
+*.userosscache
+.idea/
+_ReSharper*/
+
+## OS Specific
+.DS_Store
+Thumbs.db
